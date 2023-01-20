@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://github.com/fredsonsouza/nlw-setup)
+- [Visite o projeto online](https://fredsonsouza.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Conheça a Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
